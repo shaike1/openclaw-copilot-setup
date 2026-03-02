@@ -45,7 +45,7 @@ You (WhatsApp / Discord / Web)
 ### 1. Clone this repo on the machine running OpenClaw
 
 ```bash
-git clone <this-repo-url>
+git clone https://github.com/shaike1/openclaw-copilot-setup.git
 cd openclaw-copilot-setup
 ```
 
